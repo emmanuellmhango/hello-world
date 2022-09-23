@@ -1,16 +1,55 @@
-# Hello World
+# Hello Microverse
 
-> Hello world is my first microverse project to establish me in git skills.
+> Hello microverse is the first microverse project to establish meone in git skills.
 
 
-### Built With
+## Built With
 
 - HTML
 - CSS
+- GitHub
 
-### Getting Started
 
-**git skills are very important to get as they are wildely used in the real world.**
+To get a local copy up and running follow these simple example steps.
 
-## Contacts
-[https://instagram.com/mw_imma](insta- @mw_imma) | [mailto:emmanuellmhango@gmail.com](emmanuellmhango@gmail.com)
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author**
+
+- GitHub: [@emmanuellmhango](https://github.com/emmanuellmhango)
+- Instagram: [@mw_imma](https://instagram.com/mw_imma)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+## Acknowledgments
+
+- Microverse Team
+- My Coding partners [ Paulina and Shibo]
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
